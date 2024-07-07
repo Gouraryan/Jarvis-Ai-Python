@@ -11,25 +11,6 @@ This is the Jarvis AI Project made in Python3. It is a virtual assistant and has
 Say "Help" or "Tell me your features" and Jarvis will say all of its capabilities.
 
 
-# Installation
-
-1. Clone the Repository
-
-        git clone https://github.com/praveenkumarsrivas/Jarvis-AI-using-python3-.git
-
-2. Open the Project Directory
-
-        cd Jarvis-AI-using-python3-
-
-3. Install the Required Python Modules
-
-        pip install -r requirements.txt
-
-4. Run the Script
-
-        python jarvis.py
-
-
 # How To Use
 
 Once Jarvis is in its listening state, you can say what you want it to do by speaking.
